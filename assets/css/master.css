@@ -16,15 +16,12 @@ body {
 
 .container {
   text-align: center;
-  padding: 30px 0;
+  padding: 10px 27px;
   width: 60%;
   margin: 0 auto;
   border: 1px solid black;
 }
 
-.row {
-  margin-top: 30px;
-}
 
 img.pattern {
   width: 100%;
@@ -32,7 +29,7 @@ img.pattern {
 }
 
 [class^="carta"] {
-  margin: 0 calc(28% / 8);
+  margin: 10px calc(28% / 8);
   float: left;
   position: relative;
   width: 18%;
@@ -68,7 +65,7 @@ img.pattern {
   height: 100%;
 }
 
-
+/* 1 riga */
 .display-none1{
   display: none;
   z-index: 1;
@@ -104,3 +101,78 @@ img.pattern {
 .carta4:hover .display-none4{
   display: block;
 }
+/* 1 riga */
+
+
+/* 2 riga */
+.display-none5{
+  display: none;
+  z-index: 1;
+}
+
+.carta5:hover .display-none5{
+  display: block;
+}
+
+.display-none6{
+  display: none;
+  z-index: 1;
+}
+
+.carta6:hover .display-none6{
+  display: block;
+}
+
+.display-none7{
+  display: none;
+  z-index: 1;
+}
+
+.carta7:hover .display-none7{
+  display: block;
+}
+
+.display-none8{
+  display: none;
+  z-index: 1;
+}
+
+.carta8:hover .display-none8{
+  display: block;
+}
+ /* 2riga */
+ .display-none9{
+   display: none;
+   z-index: 1;
+ }
+
+ .carta9:hover .display-none9{
+   display: block;
+ }
+
+ .display-none10{
+   display: none;
+   z-index: 1;
+ }
+
+ .carta10:hover .display-none10{
+   display: block;
+ }
+
+ .display-none11{
+   display: none;
+   z-index: 1;
+ }
+
+ .carta11:hover .display-none11{
+   display: block;
+ }
+
+ .display-none12{
+   display: none;
+   z-index: 1;
+ }
+
+ .carta12:hover .display-none12{
+   display: block;
+ }
