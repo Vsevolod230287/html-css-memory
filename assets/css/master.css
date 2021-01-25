@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: : 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #ADD8E6;
+}
+.container {
+  text-align: center;
+  padding: 30px;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.carta1 {
+  width: 150px;
+  height: 
+
+}
+
+img.pattern {
+  width: 100%;
+  height: 100%;
+}
